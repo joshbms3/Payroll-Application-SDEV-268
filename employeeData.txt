@@ -1,0 +1,4 @@
+joshuabarroso@msn.com AID2002 06/29/1993 Joshua Barroso Josh IT SoftwareDeveloper 1 0 1 05/05/2025 ADMIN
+johndoe@msn.com EID1001 01/01/1990 John Doe John IT Technician 1 0 1 05/05/2025 EMPLOYEE
+marlongabriel@aol.com EID1002 01/01/1990 Marlon Gabriel Marlon SA SalesRepresentative 1 0 1 05/05/2025 EMPLOYEE
+katywilson@msn.com EID1003 01/01/1991 Katy Wilson Katy HR FrontDesk 1 1 1 05/05/2025 EMPLOYEE
