@@ -191,7 +191,7 @@ Database Architecture: .txt files
   I hope this brief explanation for how my app works help you navigate your way to
   building, managing, and profiting greatly with ABC company!
   If you have any comments, questions, concerns with the application and any future
-  ideas or just want to chat, feel free to email me at jbarrso1@ivytech.edu!
+  ideas or just want to chat, feel free to email me at jbarroso1@ivytech.edu!
 
                   ;:=-.,_-*^*-_,.-= THANK YOU! =-.,_-*^*-_,.-=:;
 
