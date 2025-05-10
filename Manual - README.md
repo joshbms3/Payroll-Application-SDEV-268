@@ -19,19 +19,19 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
   has been successfully loaded or not, if the file loaded successfully, the    
   user will see:                                                            
                                                                            
-  ------------------------------------
-  Loading employee data...
-  ------------------------------------
+    ------------------------------------
+    Loading employee data...
+    ------------------------------------
 
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
   If the file does not load successfully and a default file must be created
   the following message will appear:
 
-  ------------------------------------
-  Existing employeeData.txt not found, or was found empty!      
-  New file created with default admin credentials!
-  ------------------------------------
+    ------------------------------------
+    Existing employeeData.txt not found, or was found empty!      
+    New file created with default admin credentials!
+    ------------------------------------
 
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
@@ -39,9 +39,9 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
   be made in the following format, and is saved in a seperate file called
   loginData.txt
 
-    login id        hashed password     employee type
-       |                   |                  |
-  defaultadmin    1686552567726710310       admin
+      login id        hashed password     employee type
+         |                   |                  |
+    defaultadmin    1686552567726710310       admin
 
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
@@ -52,15 +52,15 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
   -word were generated from the following default data: (made because no file
    was found when the app was launched)
 
-      (default values)
-     login id         unique id  hire date  first name last name   nick      department    title    status  gender paytype   dob    employee type
-         |                |         |           |         |        |            |           |        |       |       |       |          |
-   defaultadmin        AID0000     none         de       fault    none    Administration   Admin     1      -1       0   00/00/0000   ADMIN
+        (default values)
+       login id         unique id  hire date  first name last name   nick      department    title    status  gender paytype   dob    employee type
+           |                |         |           |         |        |            |           |        |       |       |       |          |
+     defaultadmin        AID0000     none         de       fault    none    Administration   Admin     1      -1       0   00/00/0000   ADMIN
 
-     (actual data example)
-     login id         unique id  hire date  first name last name  nick       department      title     status    gender  paytype    dob      employee type
-         |                |          |          |         |        |            |              |          |         |         |         |            |
-  joshuabarroso@msn.com AID2002 06/29/1993   Joshua    Barroso     Josh        IT     SoftwareDeveloper   1         0         1     05/05/2025  ADMIN
+       (actual data example)
+       login id         unique id  hire date  first name last name  nick       department      title     status    gender  paytype    dob      employee type
+           |                |          |          |         |        |            |              |          |         |         |         |            |
+    joshuabarroso@msn.com AID2002 06/29/1993   Joshua    Barroso     Josh        IT     SoftwareDeveloper   1         0         1     05/05/2025  ADMIN
   
 
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
@@ -68,15 +68,15 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
   After this is done, the main menu system is accessed to display options so
   a user can select from the following options:
 
-   1) Login 2) Exit)
+     1) Login 2) Exit)
                                                                            
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
   When logging in with option 1: for example using default login credentials:
 
-  Enter your User Type (admin/employee):
-  is displayed to the screen, when using the defaul login creditions, "admin"
-  would need to be entered
+    Enter your User Type (admin/employee):
+    is displayed to the screen, when using the defaul login creditions, "admin"
+    would need to be entered
 
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
   
@@ -88,16 +88,16 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
   Once the login is successful the user is greeted with the following information
 
-  Login successful!
-  Admin menu accessed:
-  1 - Employee demographics
-  2 - Payroll info / Calculate Payroll
-  3 - Add/Edit/Delete Employee
-  4 - Employee Search
-  5 - Reporting
-  6 - Application information
-  7 - Exit
-  Choose option: 
+    Login successful!
+    Admin menu accessed:
+    1 - Employee demographics
+    2 - Payroll info / Calculate Payroll
+    3 - Add/Edit/Delete Employee
+    4 - Employee Search
+    5 - Reporting
+    6 - Application information
+    7 - Exit
+    Choose option: 
 
   When selecting option 3 the user can add/edit/delete any employee or admin,
   depending on current user access (admin or employee)
@@ -106,30 +106,30 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
   After selecting option 3 the following menu displays:
 
-  Employee Management Options
-  1 - Add New Employee
-  2 - Edit Existing Employee
-  3 - Delete Employee
-  4 - Return to Main Menu
-  Choose option:
+    Employee Management Options
+    1 - Add New Employee
+    2 - Edit Existing Employee
+    3 - Delete Employee
+    4 - Return to Main Menu
+    Choose option:
 
   By using option 3 you can add a new admin or employee,
   and once a new admin is added the default admin will be deleted and a message will
   be printed to the terminal for the user:
 
-  Enter New Employee Details:
-  Email: joshuabarroso@msn.com
-  Is this an admin? (y/n): y
-  Date of Birth (MM/DD/YYYY): 06/29/1993
-  First Name: Joshua
-  Last Name: Barroso
-  Surname (required): Josh
-  Department: IT
-  Job Title: SoftwareDeveloper
-  Status (1 for Active, 0 for Inactive, -1 for Terminated): 1
-  Gender (0 for Male, 1 for Female, 3 for Other): 0
-  Pay Type (0 for Hourly, 1 for Salary): 1
-  Date Hired (MM/DD/YYYY): 05/10/2025
+    Enter New Employee Details:
+    Email: joshuabarroso@msn.com
+    Is this an admin? (y/n): y
+    Date of Birth (MM/DD/YYYY): 06/29/1993
+    First Name: Joshua
+    Last Name: Barroso
+    Surname (required): Josh
+    Department: IT
+    Job Title: SoftwareDeveloper
+    Status (1 for Active, 0 for Inactive, -1 for Terminated): 1
+    Gender (0 for Male, 1 for Female, 3 for Other): 0
+    Pay Type (0 for Hourly, 1 for Salary): 1
+    Date Hired (MM/DD/YYYY): 05/10/2025
 
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
@@ -137,18 +137,18 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
   Once a new admin is added the default admin will be deleted and a message will
   be printed to the terminal for the user:
 
-  Default admin removed because a new admin has been added!
-  Employee with EID AID0000 deleted successfully.
+    Default admin removed because a new admin has been added!
+    Employee with EID AID0000 deleted successfully.
 
-  Employee added successfully!
-  1 - Employee demographics
-  2 - Payroll info / Calculate Payroll
-  3 - Add/Edit/Delete Employee
-  4 - Employee Search
-  5 - Reporting
-  6 - Application information
-  7 - Exit
-  Choose option:
+    Employee added successfully!
+    1 - Employee demographics
+    2 - Payroll info / Calculate Payroll
+    3 - Add/Edit/Delete Employee
+    4 - Employee Search
+    5 - Reporting
+    6 - Application information
+    7 - Exit
+    Choose option:
 
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
