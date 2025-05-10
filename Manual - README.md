@@ -65,10 +65,15 @@ Database Architecture: .txt files
 
 ---------------------------------------------------------------------------------------------------
 
-  After this is done, the main menu system is accessed to display options so
+  After this is done, the welcome message and main menu system is accessed to display options so
   a user can select from the following options:
 
-     1) Login 2) Exit)
+    Welcome to ABC Company's Payroll Application!
+    Bare with us as the app is still in development, thank you!
+    1 - Login
+    2 - Exit
+    Choose option:
+
                                                                            
 ---------------------------------------------------------------------------------------------------
 
