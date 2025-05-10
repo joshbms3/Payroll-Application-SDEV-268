@@ -634,7 +634,7 @@ public:
             cout << "------------------------------------\n";
 
             if (employeeData.is_open()) {
-                employeeData << "defaultadmin AID0000 admin de fault none Administration Admin 1 0 0 00/00/0000 ADMIN";
+                employeeData << "defaultadmin AID0000 none de fault none Administration Admin 1 -1 0 00/00/0000 ADMIN";
                 employeeData.close();
 
                 cout << "Existing employeeData.txt not found, or was found empty!\nNew file created with default admin credentials!" << endl;
