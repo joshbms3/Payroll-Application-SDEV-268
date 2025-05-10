@@ -1,8 +1,8 @@
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
                                                                            
   ;:=-.,_-*^*-_,.-= Welcome to Joshua's Payroll App Readme! =-.,_-*^*-_,.-=:;
                                                                           
-------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
                                                                         
 Course: SDEV 268                                      
 Professor: Marlene Gordon                        
@@ -12,7 +12,7 @@ Student: Joshua Barroso
 Programming Language: C++                                
 Database Architecture: .txt files                        
                                                                            
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
                                                                               
   When launching the payrollApp.exe, a terminal will be launched the first  
   message that prints is a description of whether or not employee data 
@@ -23,7 +23,7 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
     Loading employee data...
     ------------------------------------
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
 
   If the file does not load successfully and a default file must be created
   the following message will appear:
@@ -33,7 +33,7 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
     New file created with default admin credentials!
     ------------------------------------
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
 
   When a default employeeData.txt file is made, a default admin login will
   be made in the following format, and is saved in a seperate file called
@@ -43,7 +43,7 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
          |                   |                  |
     defaultadmin    1686552567726710310       admin
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
 
    This default password for all employees (unless changes) is generated
    from the employee-
@@ -63,14 +63,14 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
     joshuabarroso@msn.com AID2002 06/29/1993   Joshua    Barroso     Josh        IT     SoftwareDeveloper   1         0         1     05/05/2025  ADMIN
   
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
 
   After this is done, the main menu system is accessed to display options so
   a user can select from the following options:
 
      1) Login 2) Exit)
                                                                            
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
 
   When logging in with option 1: for example using default login credentials:
 
@@ -78,13 +78,13 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
     is displayed to the screen, when using the defaul login creditions, "admin"
     would need to be entered
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
   
   After entering "admin" the user will have to login providing an email and
   password, in this case the default id and password are listed above,
   (id = defaultadmin, pw = defaultadmin)
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
 
   Once the login is successful the user is greeted with the following information
 
@@ -102,7 +102,7 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
   When selecting option 3 the user can add/edit/delete any employee or admin,
   depending on current user access (admin or employee)
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
 
   After selecting option 3 the following menu displays:
 
@@ -131,7 +131,7 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
     Pay Type (0 for Hourly, 1 for Salary): 1
     Date Hired (MM/DD/YYYY): 05/10/2025
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
 
 
   Once a new admin is added the default admin will be deleted and a message will
@@ -150,7 +150,7 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
     7 - Exit
     Choose option:
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
 
   Admin users can then print employee demographics, which prints out a list of all admins and employees and their information
   and records!
@@ -186,7 +186,7 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
     7 - Exit
     Choose option:
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
 
   I hope this brief explanation for how my app works help you navigate your way to
   building, managing, and profiting greatly with ABC company!
@@ -195,4 +195,4 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
                   ;:=-.,_-*^*-_,.-= THANK YOU! =-.,_-*^*-_,.-=:;
 
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+---------------------------------------------------------------------------------------------------
