@@ -152,6 +152,42 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
+  Admin users can then print employee demographics, which prints out a list of all admins and employees and their information
+  and records!
+  
+    ------------------------------------
+    Loading employee data...
+    ------------------------------------
+    
+    Employee Demographics:
+    Total Employees: 0
+    Total Admins: 1
+    
+    User Type: ADMIN
+    User ID: AID2002
+    First Name: Joshua
+    Last Name: Barroso
+    Sur Name: Josh
+    Email: joshuabarroso@msn.com
+    Date of Birth: 06/29/1993
+    Department: IT
+    Job Title: SoftwareDeveloper
+    Status: Active
+    Gender: Male
+    Pay Type: Salary
+    Date Hired: 05/10/2025
+    ------------------------------------
+    1 - Employee demographics
+    2 - Payroll info / Calculate Payroll
+    3 - Add/Edit/Delete Employee
+    4 - Employee Search
+    5 - Reporting
+    6 - Application information
+    7 - Exit
+    Choose option:
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
   I hope this brief explanation for how my app works help you navigate your way to
   building, managing, and profiting greatly with ABC company!
   If you have any comments, questions, concerns with the application and any future
